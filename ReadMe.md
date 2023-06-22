@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&width=435&separator=%3C&lines=Hi%2C+I'm+Mehfooz+Ahmed!%3CA+Computer+Science+Engineer%3CWorking+as+an+Intern+at+Pace+Wisdom%3CWelcome+Here!+;)]
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&width=435&separator=%3C&lines=Hi%2C+I'm+Mehfooz+Ahmed!%3CA+Computer+Science+Engineer%3CWorking+as+an+Intern+at+Pace+Wisdom%3CWelcome+Here!+;)" alt="Typing SVG" /></a>
 
 
 # 💫 About Me:
