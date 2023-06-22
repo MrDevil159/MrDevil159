@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&width=435&separator=%3C&lines=Hi%2C+I'm+Mehfooz+Ahmed!%3CA+Computer+Science+Engineer%3CWorking+as+an+Intern+at+Pace+Wisdom%3CWelcome+Here!+;)" alt="Typing SVG" /></a>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&width=435&separator=%3C&lines=Hi%2C+I'm+Mehfooz+Ahmed!%3CA+Computer+Science+Engineer%3CWorking+as+an+Intern+at+Pace+Wisdom%3CWelcome+Here!+;)" alt="Typing SVG" /></a>
 
 
 # 💫 About Me:
@@ -19,5 +19,5 @@ Hi, I'm Mehfooz Ahmed, a Fullstack Web Developer with some experience in Java an
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+</center>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
