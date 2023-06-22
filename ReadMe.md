@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mehfooz Ahmed, a Fullstack Web Developer with some experience in Java and JavaScript. <br>I love learning and exploring new technologies, and I'm excited to expand my skillset beyond Java.<br>I have a strong passion for technology, and I'm always eager to learn about and explore different kinds of technologies.<br>I love to experiment with different tools and techniques to build efficient and scalable applications.
+Hi, I'm Mehfooz Ahmed, a Fullstack Web Developer with some experience in Java and JavaScript. <br>I love learning and exploring new technologies, and I'm excited to expand my skillset beyond the ones mentioned above.<br>I have a strong passion for technology, and I'm always eager to learn about and explore different kinds of technologies.<br>I love to experiment with different tools and techniques to build efficient and scalable applications.
 
 
 ## 🌐 Socials:
